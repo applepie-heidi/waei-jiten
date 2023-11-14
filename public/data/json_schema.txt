@@ -1,0 +1,92 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/Welcome6Element"
+    },
+    "definitions": {
+        "Welcome6Element": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "kanji": {
+                    "type": "string"
+                },
+                "kanji_info": {
+                    "$ref": "#/definitions/KanjiInfo"
+                },
+                "reading": {
+                    "type": "string"
+                },
+                "reading_info": {
+                    "$ref": "#/definitions/ReadingInfo"
+                },
+                "pos": {
+                    "type": "string"
+                },
+                "field": {
+                    "type": "string"
+                },
+                "misc": {
+                    "type": "string"
+                },
+                "dialect": {
+                    "$ref": "#/definitions/Dialect"
+                },
+                "gloss": {
+                    "type": "string"
+                },
+                "japanese_sentence": {
+                    "type": "string"
+                },
+                "english_sentence": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "dialect",
+                "english_sentence",
+                "field",
+                "gloss",
+                "japanese_sentence",
+                "kanji",
+                "kanji_info",
+                "misc",
+                "pos",
+                "reading",
+                "reading_info"
+            ],
+            "title": "Welcome6Element"
+        },
+        "Dialect": {
+            "type": "string",
+            "enum": [
+                "",
+                "Tosa-ben",
+                "Kansai-ben"
+            ],
+            "title": "Dialect"
+        },
+        "KanjiInfo": {
+            "type": "string",
+            "enum": [
+                "",
+                "search-only kanji form",
+                "ateji (phonetic) reading, rarely-used kanji form",
+                "rarely-used kanji form",
+                "ateji (phonetic) reading; rarely-used kanji form"
+            ],
+            "title": "KanjiInfo"
+        },
+        "ReadingInfo": {
+            "type": "string",
+            "enum": [
+                "",
+                "word containing irregular kana usage",
+                "search-only kana form",
+                "out-dated or obsolete kana usage"
+            ],
+            "title": "ReadingInfo"
+        }
+    }
+}
