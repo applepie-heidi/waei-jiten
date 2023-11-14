@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="application-name" content="waei-jiten">
+    <meta name="title" content="Waei Jiten Data">
+    <meta name="description" content="Japanese-English dictionary with example sentences">
+    <meta name="keywords" content="japanese, english, dataset, open source dataset, dictionary">
+    <meta name="author" content="hs52255">
+    <title>Waei Jiten</title>
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.2.3/js/dataTables.fixedHeader.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css"></script>
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.2.3/css/fixedHeader.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+
+    <style>
+        tfoot input {
+            width: 100%;
+            padding: 3px;
+            box-sizing: border-box;
+        }
+    </style>
+    <script>
+
+        const attributes = ['kanji', 'kanji_info', 'reading', 'reading_info', 'pos', 'field', 'misc', 'dialect', 'gloss', 'japanese_sentence', 'english_sentence'];
+
+        function download_json(filename, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:application/json;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+            element.style.display = 'none';
+            document.body.appendChild(element);
+            element.click();
+            document.body.removeChild(element);
+        }
+
+        function download_csv(filename, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:application/csv;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+            element.style.display = 'none';
+            document.body.appendChild(element);
+            element.click();
+            document.body.removeChild(element);
+        }
+
+        function arrayToCSV(dataArray, attributes) {
+            const csvRows = [];
+
+            // Header row
+            const header = attributes.map(attribute => `"${attribute}"`).join(',');
+            csvRows.push(header);
+
+            // Data rows
+            for (const row of dataArray) {
+                const rowData = attributes.map((attribute, index) => `"${row[index]}"`).join(',');
+                csvRows.push(rowData);
+            }
+
+            return csvRows.join('\n');
+        }
+
+        $(document).ready(function () {
+            let table = $('#entryTable').DataTable({});
+
+            $('#json-button').click(function () {
+                let data = table.rows({ search: 'applied' }).data();
+
+                // Convert DataTables data to a plain JavaScript array
+                let dataArray = data.toArray();
+
+                const entries = dataArray.map(entryData => {
+                    const entry = {};
+                    attributes.forEach((attribute, index) => {
+                        entry[attribute] = entryData[index];
+                    });
+                    return entry;
+                });
+                download_json('data.json', JSON.stringify(entries));
+
+                // Example: Send data to the server using AJAX
+                /*$.ajax({
+                    type: 'POST',  // Change to 'GET' if appropriate
+                    url: '/datatable',  // Replace with your server endpoint
+                    contentType: 'application/json',
+                    data: JSON.stringify(dataArray),
+                    success: function (response) {
+                        console.log(response);
+                        download('data.json', JSON.stringify(response));
+                    },
+                    error: function (error) {
+                        console.error('Error submitting data to the server:', error);
+                    }
+                });*/
+
+                return false;
+            });
+            $('#csv-button').click(function () {
+                let data = table.rows({ search: 'applied' }).data();
+
+                // Convert DataTables data to a plain JavaScript array
+                let dataArray = data.toArray();
+
+                csv = arrayToCSV(dataArray, attributes);
+                download_csv('data.csv', csv);
+
+                return false;
+            });
+        });
+    </script>
+</head>
+<body>
+<h1>Waei Jiten Data</h1>
+<div class="description"><span>Japanese-English dictionary with example sentences</span></div>
+<hr>
+<br>
+
+<div>
+    <nav>
+        <a href="/" class="button button1"><span class="sp">Index -></span></a>
+    </nav>
+</div>
+
+<div class="demo-html">
+    <button id="csv-button" type="submit">CSV</button>
+    <button id="json-button" type="submit">JSON</button>
+    <!--a href="/datatable/globalData">Global data</a-->
+</div>
+
+<table id="entryTable" class="display" style="width:100%">
+    <thead>
+    <tr>
+        <% for (atr of attributes) { %>
+            <th><%= atr %></th>
+        <% } %>
+    </tr>
+    </thead>
+    <tbody>
+    <% for (entry of entries) { %>
+        <tr>
+            <% for (atr of attributes) { %>
+                <td>
+                    <%= entry[atr] %>
+                </td>
+            <% } %>
+        </tr>
+    <% } %>
+    </tbody>
+</table>
+
+</body>

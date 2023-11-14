@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="application-name" content="waei-jiten">
+    <meta name="title" content="Waei Jiten Data">
+    <meta name="description" content="Japanese-English dictionary with example sentences">
+    <meta name="keywords" content="japanese, english, dataset, open source dataset, dictionary">
+    <meta name="author" content="hs52255">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+
+    <title>Waei Jiten</title>
+</head>
+<body>
+<h1>Waei Jiten Data</h1>
+<div class="description"><span>Japanese-English dictionary with example sentences</span></div>
+<hr>
+<br>
+<div>
+    <nav>
+        <a href="/datatable" class="button button1"><span class="sp">Datatable View -></span></a>
+    </nav>
+</div>
+<div class="dataset">
+    <h3>Author:</h3>
+    <span>Heidi Sokolovski</span>
+</div>
+<div class="dataset">
+    <h3>Publication Date:</h3>
+    <span>2023-10-30</span>
+</div>
+<div class="dataset">
+    <h3>Update Date:</h3>
+    <span>2023-11-13</span>
+</div>
+<div class="dataset">
+    <h3>Source:</h3>
+    <a href="https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project" target="_blank"><span>JMdict-EDICT Dictionary Project</span></a>
+</div>
+<div class="dataset">
+    <h3>Language:</h3>
+    <span>English, Japanese</span>
+</div>
+
+<div class="dataset">
+    <h3>Character Encoding</h3>
+    <span>UTF-8</span>
+</div>
+<div class="dataset">
+    <h3>License:</h3>
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0
+        International License</a>
+</div>
+<div class="formats">
+    <h3>Distributions:</h3>
+    <a href="/data/waei_jiten.csv" download=""><span>CSV</span></a>
+    <a href="/data/waei_jiten.json" download=""><span>JSON</span></a>
+</div>
+<div class="dataset">
+    <h3>Current Version:</h3>
+    <span>1.0</span>
+</div>
+<div class="attributes">
+    <h3>Dataset Attributes</h3>
+    <table>
+        <tr>
+            <th>Attribute Name</th>
+            <th>Attribute Description</th>
+        </tr>
+        <tr>
+            <td>entry_id</td>
+            <td>Unique identifier for each entry</td>
+        </tr>
+        <tr>
+            <td>kanji_element_id</td>
+            <td>Unique identifier for each kanji element</td>
+        </tr>
+        <tr>
+            <td>kanji</td>
+            <td>Kanji element; a word or short phrase in Japanese which is written using at least one non-kana
+                character
+            </td>
+        </tr>
+        <tr>
+            <td>kanji_info</td>
+            <td>Kanji information related specifically to the orthography</td>
+        </tr>
+        <tr>
+            <td>reading_element_id</td>
+            <td>Unique identifier for each reading element</td>
+        </tr>
+        <tr>
+            <td>reading</td>
+            <td>Reading element; the valid readings of the word(s) in the kanji element using modern kanadzukai</td>
+        </tr>
+        <tr>
+            <td>reading_nokanji</td>
+            <td>Indicates that the reading cannot be regarded as a true reading of the kanji</td>
+        </tr>
+        <tr>
+            <td>reading_info</td>
+            <td>Reading information</td>
+        </tr>
+        <tr>
+            <td>reading_restraint_id</td>
+            <td>Unique identifier for each reading restraint</td>
+        </tr>
+        <tr>
+            <td>reading_restraint</td>
+            <td>Indicates when the reading only applies to a subset of the keb elements</td>
+        </tr>
+        <tr>
+            <td>sense_id</td>
+            <td>Unique identifier for each sense</td>
+        </tr>
+        <tr>
+            <td>pos</td>
+            <td>Part of speech information</td>
+        </tr>
+        <tr>
+            <td>field</td>
+            <td>Field information</td>
+        </tr>
+        <tr>
+            <td>misc</td>
+            <td>Miscellaneous information</td>
+        </tr>
+        <tr>
+            <td>dialect</td>
+            <td>Dialect information</td>
+        </tr>
+        <tr>
+            <td>sense_kanji_restriction_id</td>
+            <td>Unique identifier for each sense kanji restriction</td>
+        </tr>
+        <tr>
+            <td>kanji_restriction</td>
+            <td>Sense is restricted to the kanji</td>
+        </tr>
+        <tr>
+            <td>sense_reading_restriction_id</td>
+            <td>Unique identifier for each sense reading restriction</td>
+        </tr>
+        <tr>
+            <td>reading_restriction</td>
+            <td>Sense is restricted to the reading</td>
+        </tr>
+        <tr>
+            <td>sense_xref_id</td>
+            <td>Unique identifier for each sense cross-reference</td>
+        </tr>
+        <tr>
+            <td>xref</td>
+            <td>Indicates a cross-reference to another entry with a similar or related meaning or sense</td>
+        </tr>
+        <tr>
+            <td>sense_antonym_id</td>
+            <td>Unique identifier for each sense antonym</td>
+        </tr>
+        <tr>
+            <td>antonym</td>
+            <td>Indicates another entry which is an antonym of the current entry</td>
+        </tr>
+        <tr>
+            <td>sense_gloss_id</td>
+            <td>Unique identifier for each sense gloss</td>
+        </tr>
+        <tr>
+            <td>gloss</td>
+            <td>Target-language words or phrases which are equivalents to the Japanese word</td>
+        </tr>
+        <tr>
+            <td>sense_example_id</td>
+            <td>Unique identifier for each sense example</td>
+        </tr>
+        <tr>
+            <td>sense_text</td>
+            <td>Sense text</td>
+        </tr>
+        <tr>
+            <td>japanese_sentence</td>
+            <td>Japanese sentence</td>
+        </tr>
+        <tr>
+            <td>english_sentence</td>
+            <td>English sentence</td>
+        </tr>
+    </table>
+</div>
+<br>
+
+</body>
+</html>

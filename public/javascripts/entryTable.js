@@ -1,0 +1,1 @@
+$('entryTable').dataTable();

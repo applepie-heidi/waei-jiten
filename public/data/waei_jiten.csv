@@ -1,0 +1,1009 @@
+entry_id,kanji_element_id,kanji,kanji_info,reading_element_id,reading,reading_nokanji,reading_info,reading_restraint_id,reading_restraint,sense_id,pos,field,misc,dialect,sense_kanji_restriction_id,kanji_restriction,sense_reading_restriction_id,reading_restriction,sense_xref_id,xref,sense_antonym_id,antonym,sense_gloss_id,gloss,sense_example_id,sense_text,japanese_sentence,english_sentence
+1000000,,,,1,ヽ,f,,,,1,unclassified,,,,,,,,1,一の字点,,,1,repetition mark in katakana,,,,
+1000010,,,,2,ヾ,f,,,,2,unclassified,,,,,,,,,,,,2,voiced repetition mark in katakana,,,,
+1000020,,,,3,ゝ,f,,,,3,unclassified,,,,,,,,,,,,3,repetition mark in hiragana,,,,
+1000030,,,,4,ゞ,f,,,,4,unclassified,,,,,,,,,,,,4,voiced repetition mark in hiragana,,,,
+1000040,1,〃,,5,おなじ,f,,,,5,noun (common) (futsuumeishi),,,,,,,,,,,,5,ditto mark,,,,
+1000040,1,〃,,6,おなじく,f,,,,5,noun (common) (futsuumeishi),,,,,,,,,,,,5,ditto mark,,,,
+1000050,2,仝,,7,どうじょう,f,,,,6,noun (common) (futsuumeishi),,,,,,,,,,,,6,"""as above"" mark",,,,
+1000060,3,々,,9,ノマ,t,,,,7,unclassified,,,,,,,,2,同の字点,,,7,kanji repetition mark,,,,
+1000060,3,々,,8,のま,f,,,,7,unclassified,,,,,,,,2,同の字点,,,7,kanji repetition mark,,,,
+1000090,5,〇,,10,まる,f,,,,8,noun (common) (futsuumeishi),,,,,,,,3,丸・まる・1,,,8,circle,,,,
+1000090,4,○,,10,まる,f,,,,8,noun (common) (futsuumeishi),,,,,,,,3,丸・まる・1,,,8,circle,,,,
+1000090,5,〇,,10,まる,f,,,,9,noun (common) (futsuumeishi),,,,,,,,4,二重丸,,,10,"""good""",,,,
+1000090,5,〇,,10,まる,f,,,,9,noun (common) (futsuumeishi),,,,,,,,4,二重丸,,,9,"""correct""",,,,
+1000090,4,○,,10,まる,f,,,,9,noun (common) (futsuumeishi),,,,,,,,4,二重丸,,,10,"""good""",,,,
+1000090,4,○,,10,まる,f,,,,9,noun (common) (futsuumeishi),,,,,,,,4,二重丸,,,9,"""correct""",,,,
+1000090,5,〇,,10,まる,f,,,,10,unclassified,,,,,,,,5,〇〇・1,,,12,_,,,,
+1000090,5,〇,,10,まる,f,,,,10,unclassified,,,,,,,,5,〇〇・1,,,11,*,,,,
+1000090,4,○,,10,まる,f,,,,10,unclassified,,,,,,,,5,〇〇・1,,,12,_,,,,
+1000090,4,○,,10,まる,f,,,,10,unclassified,,,,,,,,5,〇〇・1,,,11,*,,,,
+1000090,5,〇,,10,まる,f,,,,11,noun (common) (futsuumeishi),,,,,,,,6,句点,,,14,full stop,,,,
+1000090,5,〇,,10,まる,f,,,,11,noun (common) (futsuumeishi),,,,,,,,6,句点,,,13,period,,,,
+1000090,4,○,,10,まる,f,,,,11,noun (common) (futsuumeishi),,,,,,,,6,句点,,,14,full stop,,,,
+1000090,4,○,,10,まる,f,,,,11,noun (common) (futsuumeishi),,,,,,,,6,句点,,,13,period,,,,
+1000090,4,○,,10,まる,f,,,,12,noun (common) (futsuumeishi),,,,,,,,7,半濁点,,,15,handakuten (diacritic),,,,
+1000090,5,〇,,10,まる,f,,,,12,noun (common) (futsuumeishi),,,,,,,,7,半濁点,,,15,handakuten (diacritic),,,,
+1000100,6,ＡＢＣ順,,11,エービーシーじゅん,f,,,,13,noun (common) (futsuumeishi),,,,,,,,,,,,16,alphabetical order,,,,
+1000110,7,ＣＤプレーヤー,,13,シーディープレイヤー,f,,2,ＣＤプレイヤー,14,noun (common) (futsuumeishi),,,,,,,,,,,,17,CD player,1,ＣＤプレイヤー,私は、このＣＤプレイヤーをただで得ました。,I got this CD player for free.
+1000110,8,ＣＤプレイヤー,,12,シーディープレーヤー,f,,1,ＣＤプレーヤー,14,noun (common) (futsuumeishi),,,,,,,,,,,,17,CD player,1,ＣＤプレイヤー,私は、このＣＤプレイヤーをただで得ました。,I got this CD player for free.
+1000110,7,ＣＤプレーヤー,,12,シーディープレーヤー,f,,1,ＣＤプレーヤー,14,noun (common) (futsuumeishi),,,,,,,,,,,,17,CD player,1,ＣＤプレイヤー,私は、このＣＤプレイヤーをただで得ました。,I got this CD player for free.
+1000110,8,ＣＤプレイヤー,,13,シーディープレイヤー,f,,2,ＣＤプレイヤー,14,noun (common) (futsuumeishi),,,,,,,,,,,,17,CD player,1,ＣＤプレイヤー,私は、このＣＤプレイヤーをただで得ました。,I got this CD player for free.
+1000130,9,Ｎ響,,14,エヌきょう,f,,,,15,noun (common) (futsuumeishi),,abbreviation,,,,,,,,,,18,NHK Symphony Orchestra,,,,
+1000140,10,Ｏバック,,15,オーバック,f,,,,16,noun (common) (futsuumeishi),,,,,,,,,,,,20,skirt with peek-a-boo hole in rump,,,,
+1000140,10,Ｏバック,,15,オーバック,f,,,,16,noun (common) (futsuumeishi),,,,,,,,,,,,19,O-back,,,,
+1000160,11,Ｔシャツ,,16,ティーシャツ,f,,,,17,noun (common) (futsuumeishi),,,,,,,,,,,,22,tee shirt,2,Ｔシャツ,このＴシャツはバーゲンで買ったんだ。,I bought this T-shirt on sale.
+1000160,11,Ｔシャツ,,16,ティーシャツ,f,,,,17,noun (common) (futsuumeishi),,,,,,,,,,,,21,T-shirt,2,Ｔシャツ,このＴシャツはバーゲンで買ったんだ。,I bought this T-shirt on sale.
+1000170,12,Ｔバック,,17,ティーバック,f,,,,18,noun (common) (futsuumeishi),,,,,,,,,,,,24,bikini thong,,,,
+1000170,12,Ｔバック,,17,ティーバック,f,,,,18,noun (common) (futsuumeishi),,,,,,,,,,,,23,T-back,,,,
+1000200,14,阿吽の呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,27,dancing to the same beat,,,,
+1000200,14,阿吽の呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,26,singing from the same hymn-sheet,,,,
+1000200,14,阿吽の呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,25,"the harmonizing, mentally and physically, of two parties engaged in an activity",,,,
+1000200,15,あ・うんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,27,dancing to the same beat,,,,
+1000200,15,あ・うんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,26,singing from the same hymn-sheet,,,,
+1000200,15,あ・うんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,25,"the harmonizing, mentally and physically, of two parties engaged in an activity",,,,
+1000200,13,あうんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,27,dancing to the same beat,,,,
+1000200,13,あうんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,26,singing from the same hymn-sheet,,,,
+1000200,13,あうんの呼吸,,18,あうんのこきゅう,f,,,,19,"expressions (phrases, clauses, etc.), noun (common) (futsuumeishi)",,idiomatic expression,,,,,,,,,,25,"the harmonizing, mentally and physically, of two parties engaged in an activity",,,,
+1000210,,,,19,あおば,f,,,,20,noun (common) (futsuumeishi),,obsolete term,,,,,,8,やまびこ,,,28,(former) regular (stops at every station) Tōhoku-line Shinkansen,,,,
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,35,overt,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,34,explicit,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,33,apparent,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,32,evident,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,31,plain,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,30,clear,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000220,16,明白,,20,めいはく,f,,,,21,adjectival nouns or quasi-adjectives (keiyodoshi),,,,,,,,,,,,29,obvious,3,明白,何をしなければならないかは明白です。,It is clear what must be done.
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,44,flagrant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,43,blatant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,42,unabashed,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,41,straightforward,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,40,direct,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,39,open,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,38,candid,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,37,frank,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,18,偸閑,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,36,plain,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,44,flagrant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,43,blatant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,42,unabashed,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,41,straightforward,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,40,direct,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,39,open,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,38,candid,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,37,frank,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,19,白地,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,36,plain,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,44,flagrant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,43,blatant,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,42,unabashed,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,41,straightforward,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,40,direct,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,39,open,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,38,candid,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,37,frank,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000225,17,明白,"ateji (phonetic) reading, rarely-used kanji form",21,あからさま,f,,,,22,"adjectival nouns or quasi-adjectives (keiyodoshi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,36,plain,4,あからさまに,あからさまに言えば彼は嫌いだ。,"Frankly, I don't like him."
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,47,hopeless,,,,
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,46,no good,,,,
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,45,useless,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,47,hopeless,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,46,no good,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,23,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,45,useless,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,50,not allowed,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,49,must not,,,,
+1000230,20,明かん,rarely-used kanji form,22,あかん,f,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,48,cannot,,,,
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,50,not allowed,,,,
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,49,must not,,,,
+1000230,20,明かん,rarely-used kanji form,23,アカン,t,,,,24,"expressions (phrases, clauses, etc.)",,word usually written using kana alone,Kansai-ben,,,,,,,,,48,cannot,,,,
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,54,loud,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,53,garish,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,52,showy,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,51,gaudy,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,54,loud,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,53,garish,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,52,showy,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,25,adjective (keiyoushi),,word usually written using kana alone,,,,,,9,あくが強い・2,,,51,gaudy,5,あくどい,王女があくどい化粧をしていた。,The princess was wearing too much makeup.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,60,dishonest,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,59,unscrupulous,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,58,nasty,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,57,wicked,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,56,vicious,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,21,悪どい,ateji (phonetic) reading,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,55,crooked,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,60,dishonest,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,59,unscrupulous,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,58,nasty,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,57,wicked,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,56,vicious,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000260,22,灰汁どい,rarely-used kanji form,24,あくどい,f,,,,26,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,55,crooked,6,あくどい,あくどい事をするな。,Don't do wicked things.
+1000280,23,論う,,25,あげつらう,f,,,,27,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,61,to discuss,,,,
+1000280,23,論う,,25,あげつらう,f,,,,28,"Godan verb with 'u' ending, transitive verb",,,,,,,,,,,,64,to criticise,7,あげつらう,"彼はいろいろ他人の欠点をあげつらうのにうんざりしてしまった。そこで彼らの言うことは何でも、たとえどんなにくだらなくてもそのまま認めることにしている。
+                ","He got tired of being the devil's advocate and now agrees with every idea they
+                    suggest, no matter how dumb.
+                "
+1000280,23,論う,,25,あげつらう,f,,,,28,"Godan verb with 'u' ending, transitive verb",,,,,,,,,,,,63,to criticize,7,あげつらう,"彼はいろいろ他人の欠点をあげつらうのにうんざりしてしまった。そこで彼らの言うことは何でも、たとえどんなにくだらなくてもそのまま認めることにしている。
+                ","He got tired of being the devil's advocate and now agrees with every idea they
+                    suggest, no matter how dumb.
+                "
+1000280,23,論う,,25,あげつらう,f,,,,28,"Godan verb with 'u' ending, transitive verb",,,,,,,,,,,,62,to find fault with,7,あげつらう,"彼はいろいろ他人の欠点をあげつらうのにうんざりしてしまった。そこで彼らの言うことは何でも、たとえどんなにくだらなくてもそのまま認めることにしている。
+                ","He got tired of being the devil's advocate and now agrees with every idea they
+                    suggest, no matter how dumb.
+                "
+1000290,,,,26,あさひ,f,,,,29,noun (common) (futsuumeishi),,,,,,,,,,,,65,Jouetsu line express Shinkansen,,,,
+1000300,24,遇う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,68,to deal with,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,24,遇う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,67,to handle,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,24,遇う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,66,to treat,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,25,配う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,68,to deal with,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,25,配う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,67,to handle,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,25,配う,,27,あしらう,f,,,,30,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,1,遇う,,,,,,,66,to treat,8,あしらえない,彼はいいかげんにあしらえない人である。,He is not a man to trifle with.
+1000300,24,遇う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,72,to garnish,,,,
+1000300,24,遇う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,71,to dress,,,,
+1000300,24,遇う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,70,to decorate,,,,
+1000300,24,遇う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,69,to arrange,,,,
+1000300,25,配う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,72,to garnish,,,,
+1000300,25,配う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,71,to dress,,,,
+1000300,25,配う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,70,to decorate,,,,
+1000300,25,配う,,27,あしらう,f,,,,31,"Godan verb with 'u' ending, transitive verb",,word usually written using kana alone,,,,,,,,,,69,to arrange,,,,
+1000310,26,馬酔木,,29,あしび,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,74,lily-of-the-valley,,,,
+1000310,26,馬酔木,,29,あしび,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,73,Japanese andromeda (Pieris japonica),,,,
+1000310,26,馬酔木,,30,あせぼ,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,74,lily-of-the-valley,,,,
+1000310,26,馬酔木,,30,あせぼ,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,73,Japanese andromeda (Pieris japonica),,,,
+1000310,26,馬酔木,,31,あせぶ,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,74,lily-of-the-valley,,,,
+1000310,26,馬酔木,,31,あせぶ,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,73,Japanese andromeda (Pieris japonica),,,,
+1000310,26,馬酔木,,28,あせび,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,74,lily-of-the-valley,,,,
+1000310,26,馬酔木,,28,あせび,f,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,73,Japanese andromeda (Pieris japonica),,,,
+1000310,26,馬酔木,,32,アセビ,t,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,74,lily-of-the-valley,,,,
+1000310,26,馬酔木,,32,アセビ,t,,,,32,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,73,Japanese andromeda (Pieris japonica),,,,
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,10,どこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,11,ここ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,79,you-know-where,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,78,yonder,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,77,that place,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,76,over there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,33,pronoun,,word usually written using kana alone,,,,,,12,そこ・1,,,75,there,9,あそこ,あそこから人影が見えた。,A form appeared from over there.
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,1,あそこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,2,あすこ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,82,nether regions,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,81,private parts,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,34,noun (common) (futsuumeishi),,"colloquial, word usually written using kana alone, euphemistic",,,,3,アソコ,,,,,80,genitals,10,アソコ,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch."
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,38,あこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,33,あそこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,37,あしこ,f,out-dated or obsolete kana usage,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,36,アソコ,t,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,34,あすこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,28,彼所,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,85,that point,,,,
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,84,that much,,,,
+1000320,27,彼処,rarely-used kanji form,35,かしこ,f,,,,35,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,13,あれほど,,,83,that far,,,,
+1000360,,,,39,あっさり,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,89,flatly (refuse),11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,39,あっさり,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,88,quickly,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,39,あっさり,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,87,readily,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,39,あっさり,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,86,easily,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,40,アッサリ,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,89,flatly (refuse),11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,40,アッサリ,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,88,quickly,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,40,アッサリ,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,87,readily,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,40,アッサリ,f,,,,36,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,86,easily,11,あっさり,彼はあっさり罪を白状した。,He confessed his crime frankly.
+1000360,,,,40,アッサリ,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,92,simply,,,,
+1000360,,,,40,アッサリ,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,91,plainly,,,,
+1000360,,,,40,アッサリ,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,90,"lightly (seasoned food, applied make-up, etc.)",,,,
+1000360,,,,39,あっさり,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,92,simply,,,,
+1000360,,,,39,あっさり,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,91,plainly,,,,
+1000360,,,,39,あっさり,f,,,,37,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,90,"lightly (seasoned food, applied make-up, etc.)",,,,
+1000390,32,アッと言う間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,32,アッと言う間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,32,アッと言う間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,32,アッと言う間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,32,アッと言う間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,29,あっという間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,29,あっという間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,29,あっという間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,29,あっという間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,29,あっという間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,31,アッという間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,31,アッという間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,31,アッという間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,31,アッという間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,31,アッという間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,34,アッとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,34,アッとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,34,アッとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,34,アッとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,34,アッとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,33,あっとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,33,あっとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,33,あっとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,33,あっとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,33,あっとゆう間に,search-only kanji form,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,30,あっと言う間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,97,just like that,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,30,あっと言う間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,96,in no time at all,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,30,あっと言う間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,95,in the blink of an eye,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,30,あっと言う間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,94,in a flash,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000390,30,あっと言う間に,,41,あっというまに,f,,,,38,"expressions (phrases, clauses, etc.), adverb (fukushi)",,,,,,,,,,,,93,in an instant,12,あっという間に,休暇はあっという間に終わった。,The holiday ended all too soon.
+1000400,,,,42,あっぷあっぷ,f,,,,39,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,,,,,,,,,,,98,floundering while nearly drowning,13,アップアップ,３日連続で徹夜してるから、もうアップアップだよ。,"After three straight late nights at work, I feel like I'm drowning in work.
+                "
+1000400,,,,42,あっぷあっぷ,f,,,,40,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,,,,,,,,,,,99,suffering,,,,
+1000410,,,,43,あどけない,f,,,,41,adjective (keiyoushi),,,,,,,,,,,,102,childlike,14,あどけない,彼らはみなあどけない子供たちです。,They are all artless children.
+1000410,,,,43,あどけない,f,,,,41,adjective (keiyoushi),,,,,,,,,,,,101,cherubic,14,あどけない,彼らはみなあどけない子供たちです。,They are all artless children.
+1000410,,,,43,あどけない,f,,,,41,adjective (keiyoushi),,,,,,,,,,,,100,innocent,14,あどけない,彼らはみなあどけない子供たちです。,They are all artless children.
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,45,あん,t,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,14,どの,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,15,この・1,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,105,the,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,104,those,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000420,35,彼の,rarely-used kanji form,44,あの,f,,,,42,pre-noun adjectival (rentaishi),,word usually written using kana alone,,,,,,16,その・1,,,103,that,15,あの,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
+1000430,,,,48,あのう,f,,,,43,interjection (kandoushi),,,,,,,,,,,,109,er,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,48,あのう,f,,,,43,interjection (kandoushi),,,,,,,,,,,,108,um,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,48,あのう,f,,,,43,interjection (kandoushi),,,,,,,,,,,,107,well,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,48,あのう,f,,,,43,interjection (kandoushi),,,,,,,,,,,,106,say,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,47,あのー,f,,,,43,interjection (kandoushi),,,,,,,,,,,,109,er,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,47,あのー,f,,,,43,interjection (kandoushi),,,,,,,,,,,,108,um,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,47,あのー,f,,,,43,interjection (kandoushi),,,,,,,,,,,,107,well,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,47,あのー,f,,,,43,interjection (kandoushi),,,,,,,,,,,,106,say,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,46,あの,f,,,,43,interjection (kandoushi),,,,,,,,,,,,109,er,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,46,あの,f,,,,43,interjection (kandoushi),,,,,,,,,,,,108,um,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,46,あの,f,,,,43,interjection (kandoushi),,,,,,,,,,,,107,well,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000430,,,,46,あの,f,,,,43,interjection (kandoushi),,,,,,,,,,,,106,say,16,あの〜,あの〜郵便局はどちらでしょうか。,"Uh..., where's the post office?"
+1000440,37,彼の人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,112,that person,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,37,彼の人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,111,she,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,37,彼の人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,110,he,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,36,あの人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,112,that person,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,36,あの人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,111,she,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,36,あの人,,49,あのひと,f,,,,44,pronoun,,,,,,,,,,,,110,he,17,あの人,冗談じゃないよ。あの人は私同様医者なんかじゃないよ。,You can't be serious! He's no more a doctor than I am.
+1000440,37,彼の人,,49,あのひと,f,,,,45,pronoun,,archaic,,,,,,,,,,113,you,,,,
+1000440,36,あの人,,49,あのひと,f,,,,45,pronoun,,archaic,,,,,,,,,,113,you,,,,
+1000450,38,あの方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,117,she,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,38,あの方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,116,he,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,38,あの方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,115,that lady,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,38,あの方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,114,that gentleman,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,39,彼の方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,117,she,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,39,彼の方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,116,he,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,39,彼の方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,115,that lady,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000450,39,彼の方,,50,あのかた,f,,,,46,pronoun,,honorific or respectful (sonkeigo) language,,,,,,,,,,114,that gentleman,18,あの方,あの方たちに大変うれしいです。,I am very pleased to meet them.
+1000460,40,溢れる,,51,あぶれる,f,,,,47,"Ichidan verb, intransitive verb",,word usually written using kana alone,,,,,,,,,,119,"to miss out (at fishing, hunting, etc.)",19,あぶれた,今日は仕事にあぶれた。,I found no job today.
+1000460,40,溢れる,,51,あぶれる,f,,,,47,"Ichidan verb, intransitive verb",,word usually written using kana alone,,,,,,,,,,118,to fail (in getting a job),19,あぶれた,今日は仕事にあぶれた。,I found no job today.
+1000460,40,溢れる,,51,あぶれる,f,,,,48,"Ichidan verb, intransitive verb",,word usually written using kana alone,,,,,,,,,,121,to be crowded out,,,,
+1000460,40,溢れる,,51,あぶれる,f,,,,48,"Ichidan verb, intransitive verb",,word usually written using kana alone,,,,,,,,,,120,to be left out,,,,
+1000470,,,,52,あべこべ,f,,,,49,"nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)",,onomatopoeic or mimetic word,,,,,,,,,,126,back-to-front,20,あべこべに,あなたはシャツをあべこべに着ている。,You are wearing your shirt inside out.
+1000470,,,,52,あべこべ,f,,,,49,"nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)",,onomatopoeic or mimetic word,,,,,,,,,,125,reverse,20,あべこべに,あなたはシャツをあべこべに着ている。,You are wearing your shirt inside out.
+1000470,,,,52,あべこべ,f,,,,49,"nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)",,onomatopoeic or mimetic word,,,,,,,,,,124,inverse,20,あべこべに,あなたはシャツをあべこべに着ている。,You are wearing your shirt inside out.
+1000470,,,,52,あべこべ,f,,,,49,"nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)",,onomatopoeic or mimetic word,,,,,,,,,,123,opposite,20,あべこべに,あなたはシャツをあべこべに着ている。,You are wearing your shirt inside out.
+1000470,,,,52,あべこべ,f,,,,49,"nouns which may take the genitive case particle 'no', adjectival nouns or quasi-adjectives (keiyodoshi), noun (common) (futsuumeishi)",,onomatopoeic or mimetic word,,,,,,,,,,122,contrary,20,あべこべに,あなたはシャツをあべこべに着ている。,You are wearing your shirt inside out.
+1000480,41,阿呆陀羅,,53,あほんだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,129,airhead,,,,
+1000480,41,阿呆陀羅,,53,あほんだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,128,oaf,,,,
+1000480,41,阿呆陀羅,,53,あほんだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,127,fool,,,,
+1000480,41,阿呆陀羅,,55,アホンダラ,t,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,129,airhead,,,,
+1000480,41,阿呆陀羅,,55,アホンダラ,t,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,128,oaf,,,,
+1000480,41,阿呆陀羅,,55,アホンダラ,t,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,127,fool,,,,
+1000480,41,阿呆陀羅,,54,あほだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,129,airhead,,,,
+1000480,41,阿呆陀羅,,54,あほだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,128,oaf,,,,
+1000480,41,阿呆陀羅,,54,あほだら,f,,,,50,noun (common) (futsuumeishi),,word usually written using kana alone,Kansai-ben,,,,,,,,,127,fool,,,,
+1000480,41,阿呆陀羅,,53,あほんだら,f,,,,51,noun (common) (futsuumeishi),,abbreviation,,,,4,あほだら,17,あほだら経,,,130,"type of fast-paced humorous singing mimicking the chanting of a Buddhist sutra, usually
+                with lyrics satirizing current events
+            ",,,,
+1000480,41,阿呆陀羅,,55,アホンダラ,t,,,,51,noun (common) (futsuumeishi),,abbreviation,,,,4,あほだら,17,あほだら経,,,130,"type of fast-paced humorous singing mimicking the chanting of a Buddhist sutra, usually
+                with lyrics satirizing current events
+            ",,,,
+1000480,41,阿呆陀羅,,54,あほだら,f,,,,51,noun (common) (futsuumeishi),,abbreviation,,,,4,あほだら,17,あほだら経,,,130,"type of fast-paced humorous singing mimicking the chanting of a Buddhist sutra, usually
+                with lyrics satirizing current events
+            ",,,,
+1000490,44,雨子,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,44,雨子,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000490,44,雨子,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,44,雨子,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000490,43,天魚,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,43,天魚,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000490,42,甘子,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,42,甘子,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000490,43,天魚,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,43,天魚,,56,あまご,f,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000490,42,甘子,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,132,amago,,,,
+1000490,42,甘子,,57,アマゴ,t,,,,52,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,18,皐月鱒,,,131,land-locked variety of red-spotted masu trout (Oncorhynchus masou ishikawae),,,,
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,140,to lull,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,139,to humour,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,138,to humor,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,137,to dandle,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,136,to soothe,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,135,to rock,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,134,to comfort,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000500,,,,58,あやす,f,,,,53,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,133,to cuddle,21,あやした,赤ん坊を膝の上であやした。,I dandled the baby on my knee.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,148,non-committal,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,147,doubtful,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,146,dubious,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,145,equivocal,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,144,ambiguous,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,143,vague,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,142,indefinite,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000510,,,,59,あやふや,f,,,,54,adjectival nouns or quasi-adjectives (keiyodoshi),,onomatopoeic or mimetic word,,,,,,,,,,141,uncertain,22,あやふやな,あやふやな手つきで一枚の紙を動かした。,She fumbled with a piece of paper.
+1000520,,,,60,あら,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,151,oh no,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000520,,,,60,あら,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,150,ah!,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000520,,,,60,あら,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,149,oh!,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000520,,,,61,あらー,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,151,oh no,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000520,,,,61,あらー,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,150,ah!,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000520,,,,61,あらー,f,,,,55,interjection (kandoushi),,female term or language,,,,,,,,,,149,oh!,23,あら,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
+1000525,45,𩺊,,63,アラ,t,,,,56,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,152,saw-edged perch (Niphon spinosus),,,,
+1000525,45,𩺊,,62,あら,f,,,,56,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,152,saw-edged perch (Niphon spinosus),,,,
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,19,これ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,20,それ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,154,that thing,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,57,pronoun,,word usually written using kana alone,,,,,,21,どれ・1,,,153,that,24,あれ,あれがこの町の大通りだ。,That is the main street of this city.
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,58,pronoun,,word usually written using kana alone,,,,,,,,,,155,that person,25,あれ,あれなら絶対大丈夫！,"Yeah, she must be the sure thing!"
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,58,pronoun,,word usually written using kana alone,,,,,,,,,,155,that person,25,あれ,あれなら絶対大丈夫！,"Yeah, she must be the sure thing!"
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,58,pronoun,,word usually written using kana alone,,,,,,,,,,155,that person,25,あれ,あれなら絶対大丈夫！,"Yeah, she must be the sure thing!"
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,58,pronoun,,word usually written using kana alone,,,,,,,,,,155,that person,25,あれ,あれなら絶対大丈夫！,"Yeah, she must be the sure thing!"
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,157,that time,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,156,then,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,157,that time,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,156,then,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,157,that time,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,156,then,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,157,that time,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,59,pronoun,,word usually written using kana alone,,,,,,,,,,156,then,26,あれ,そう言えば、あれから３０年以上も経つのね。,"Now that you mention it, it's been more than 30 years since then."
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,60,pronoun,,word usually written using kana alone,,,,,,,,,,158,that place (over there),,,,
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,60,pronoun,,word usually written using kana alone,,,,,,,,,,158,that place (over there),,,,
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,60,pronoun,,word usually written using kana alone,,,,,,,,,,158,that place (over there),,,,
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,60,pronoun,,word usually written using kana alone,,,,,,,,,,158,that place (over there),,,,
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,61,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,159,down there (i.e. one's genitals),27,アレ,アレが痛いんですよ、アレが。んー、何て言うの？コーガン？とにかく、男性の大事なものです。,"Down there hurts, down there. Er, what do you call them? Testicles? In any case
+                    a male's 'important parts'.
+                "
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,61,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,159,down there (i.e. one's genitals),27,アレ,アレが痛いんですよ、アレが。んー、何て言うの？コーガン？とにかく、男性の大事なものです。,"Down there hurts, down there. Er, what do you call them? Testicles? In any case
+                    a male's 'important parts'.
+                "
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,61,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,159,down there (i.e. one's genitals),27,アレ,アレが痛いんですよ、アレが。んー、何て言うの？コーガン？とにかく、男性の大事なものです。,"Down there hurts, down there. Er, what do you call them? Testicles? In any case
+                    a male's 'important parts'.
+                "
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,61,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,159,down there (i.e. one's genitals),27,アレ,アレが痛いんですよ、アレが。んー、何て言うの？コーガン？とにかく、男性の大事なものです。,"Down there hurts, down there. Er, what do you call them? Testicles? In any case
+                    a male's 'important parts'.
+                "
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,161,menses,,,,
+1000580,47,彼れ,rarely-used kanji form,64,あれ,f,,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,160,period,,,,
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,161,menses,,,,
+1000580,46,彼,rarely-used kanji form,64,あれ,f,,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,160,period,,,,
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,161,menses,,,,
+1000580,46,彼,rarely-used kanji form,65,アレ,f,search-only kana form,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,160,period,,,,
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,161,menses,,,,
+1000580,47,彼れ,rarely-used kanji form,65,アレ,f,search-only kana form,,,62,noun (common) (futsuumeishi),,"colloquial, euphemistic, word usually written using kana alone",,,,,,,,,,160,period,,,,
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,22,あんなに,,,166,so,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,22,あんなに,,,165,such,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,22,あんなに,,,164,like that,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,22,あんなに,,,163,that kind of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,22,あんなに,,,162,that sort of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,23,こんな,,,166,so,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,23,こんな,,,165,such,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,23,こんな,,,164,like that,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,23,こんな,,,163,that kind of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,23,こんな,,,162,that sort of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,24,そんな・1,,,166,so,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,24,そんな・1,,,165,such,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,24,そんな・1,,,164,like that,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,24,そんな・1,,,163,that kind of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,24,そんな・1,,,162,that sort of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,25,どんな・1,,,166,so,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,25,どんな・1,,,165,such,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,25,どんな・1,,,164,like that,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,25,どんな・1,,,163,that kind of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000590,,,,66,あんな,f,,,,63,pre-noun adjectival (rentaishi),,,,,,,,25,どんな・1,,,162,that sort of,28,あんな,あんな男見ても胸くそが悪い。,I can't bear the sight of him.
+1000600,48,いい加減にしなさい,,67,いいかげんにしなさい,f,,,,64,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,168,act properly!,,,,
+1000600,48,いい加減にしなさい,,67,いいかげんにしなさい,f,,,,64,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,167,shape up!,,,,
+1000610,49,いい年をして,,68,いいとしをして,f,,,,65,"expressions (phrases, clauses, etc.)",,,,,,,,26,いい年して,,,169,(in spite of) being old enough to know better,,,,
+1000610,50,いい歳をして,,68,いいとしをして,f,,,,65,"expressions (phrases, clauses, etc.)",,,,,,,,26,いい年して,,,169,(in spite of) being old enough to know better,,,,
+1000620,51,否々,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,172,"no, not at all",29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,51,否々,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,171,no no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,51,否々,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,170,no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,51,否々,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,172,"no, not at all",29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,51,否々,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,171,no no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,51,否々,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,170,no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,172,"no, not at all",29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,171,no no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,69,いやいや,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,170,no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,172,"no, not at all",29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,171,no no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000620,52,否否,,70,いえいえ,f,,,,66,interjection (kandoushi),,word usually written using kana alone,,,,,,27,嫌々・いやいや・3,,,170,no!,29,いやいや,私はいやいやその仕事をした。,I did the work against my will.
+1000630,53,如何わしい,,71,いかがわしい,f,,,,67,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,175,unreliable,30,いかがわしい,あの宗教団体はかなりいかがわしい教義にとりつかれている。,That religious cult has got some pretty off the wall ideas.
+1000630,53,如何わしい,,71,いかがわしい,f,,,,67,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,174,dubious,30,いかがわしい,あの宗教団体はかなりいかがわしい教義にとりつかれている。,That religious cult has got some pretty off the wall ideas.
+1000630,53,如何わしい,,71,いかがわしい,f,,,,67,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,173,suspicious,30,いかがわしい,あの宗教団体はかなりいかがわしい教義にとりつかれている。,That religious cult has got some pretty off the wall ideas.
+1000630,53,如何わしい,,71,いかがわしい,f,,,,68,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,177,unseemly,31,いかがわしい,学生たるものはいかがわしい場所にちかづかない方がよい。,Students are expected to stay away from dubious places.
+1000630,53,如何わしい,,71,いかがわしい,f,,,,68,adjective (keiyoushi),,word usually written using kana alone,,,,,,,,,,176,indecent,31,いかがわしい,学生たるものはいかがわしい場所にちかづかない方がよい。,Students are expected to stay away from dubious places.
+1000640,,,,73,イカす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,181,to be stylish,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,73,イカす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,180,to be sharp,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,73,イカす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,179,to be cool,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,73,イカす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,178,to be smart,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,72,いかす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,181,to be stylish,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,72,いかす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,180,to be sharp,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,72,いかす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,179,to be cool,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000640,,,,72,いかす,f,,,,69,"Godan verb with 'su' ending, intransitive verb",,colloquial,,,,,,,,,,178,to be smart,32,イカしてる,だってきみってすごくイカしてるんだもの。,Because you're a sweet and lovely girl.
+1000650,54,いかなる場合でも,,74,いかなるばあいでも,f,,,,70,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,183,whatever the case may be,,,,
+1000650,54,いかなる場合でも,,74,いかなるばあいでも,f,,,,70,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,182,in any case,,,,
+1000650,55,如何なる場合でも,,74,いかなるばあいでも,f,,,,70,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,183,whatever the case may be,,,,
+1000650,55,如何なる場合でも,,74,いかなるばあいでも,f,,,,70,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,182,in any case,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,71,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,187,just (like),33,いかにも,こんな格好をしているといかにもスポーツしてそうに見えるけど、全然やってないんだよ。,"I look for all the world like an athlete in this outfit, but the truth is I
+                    don't do any sports at all.
+                "
+1000660,56,如何にも,,75,いかにも,f,,,,71,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,186,truly,33,いかにも,こんな格好をしているといかにもスポーツしてそうに見えるけど、全然やってないんだよ。,"I look for all the world like an athlete in this outfit, but the truth is I
+                    don't do any sports at all.
+                "
+1000660,56,如何にも,,75,いかにも,f,,,,71,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,185,really,33,いかにも,こんな格好をしているといかにもスポーツしてそうに見えるけど、全然やってないんだよ。,"I look for all the world like an athlete in this outfit, but the truth is I
+                    don't do any sports at all.
+                "
+1000660,56,如何にも,,75,いかにも,f,,,,71,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,184,indeed,33,いかにも,こんな格好をしているといかにもスポーツしてそうに見えるけど、全然やってないんだよ。,"I look for all the world like an athlete in this outfit, but the truth is I
+                    don't do any sports at all.
+                "
+1000660,56,如何にも,,75,いかにも,f,,,,72,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,191,terribly,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,72,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,190,totally,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,72,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,189,extremely,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,72,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,188,very,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,73,"adverb (fukushi), interjection (kandoushi)",,word usually written using kana alone,,,,,,,,,,194,for sure,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,73,"adverb (fukushi), interjection (kandoushi)",,word usually written using kana alone,,,,,,,,,,193,certainly,,,,
+1000660,56,如何にも,,75,いかにも,f,,,,73,"adverb (fukushi), interjection (kandoushi)",,word usually written using kana alone,,,,,,,,,,192,absolutely,,,,
+1000710,57,幾つも,,76,いくつも,f,,,,74,"adverb (fukushi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,197,plenty,34,いくつもの,この市にはいくつもの映画館がある。,There are many movie theaters in this city.
+1000710,57,幾つも,,76,いくつも,f,,,,74,"adverb (fukushi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,196,much,34,いくつもの,この市にはいくつもの映画館がある。,There are many movie theaters in this city.
+1000710,57,幾つも,,76,いくつも,f,,,,74,"adverb (fukushi), nouns which may take the genitive case particle 'no'",,word usually written using kana alone,,,,,,,,,,195,many,34,いくつもの,この市にはいくつもの映画館がある。,There are many movie theaters in this city.
+1000710,57,幾つも,,76,いくつも,f,,,,75,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,198,hardly,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,76,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,201,naughty,35,いけません,「風邪気味です」「それはいけませんね」,"""I've a touch of a cold."" ""That's too bad."""
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,76,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,200,wrong,35,いけません,「風邪気味です」「それはいけませんね」,"""I've a touch of a cold."" ""That's too bad."""
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,76,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,199,bad,35,いけません,「風邪気味です」「それはいけませんね」,"""I've a touch of a cold."" ""That's too bad."""
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,77,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,204,ought not to,36,いけません,このフロッピーをフォーマットしてはいけません。,You mustn't format this floppy disk.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,77,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,203,should not,36,いけません,このフロッピーをフォーマットしてはいけません。,You mustn't format this floppy disk.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,77,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,202,"must not (do, be)",36,いけません,このフロッピーをフォーマットしてはいけません。,You mustn't format this floppy disk.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,78,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,207,bad,37,いけない,彼本人は好人物なんだが、その取り巻きがどうもいけないね。,"I really like him, but not his circle of friends."
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,78,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,206,no good,37,いけない,彼本人は好人物なんだが、その取り巻きがどうもいけないね。,"I really like him, but not his circle of friends."
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,78,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,205,useless,37,いけない,彼本人は好人物なんだが、その取り巻きがどうもいけないね。,"I really like him, but not his circle of friends."
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,79,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,209,beyond hope,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,79,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,208,hopeless,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,80,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,212,a pity,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,80,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,211,a shame,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,80,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,210,unfortunate,,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,81,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,213,unable to drink (alcohol),,,,
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,82,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,218,lest ...,38,いけない,道に迷うといけないから、地図をもって行きなさい。,Take a map with you in case you get lost.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,82,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,217,for fear that ...,38,いけない,道に迷うといけないから、地図をもって行きなさい。,Take a map with you in case you get lost.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,82,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,216,in case ...,38,いけない,道に迷うといけないから、地図をもって行きなさい。,Take a map with you in case you get lost.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,82,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,215,so that ... (won't),38,いけない,道に迷うといけないから、地図をもって行きなさい。,Take a map with you in case you get lost.
+1000730,58,行けない,search-only kanji form,77,いけない,f,,,,82,"expressions (phrases, clauses, etc.), adjective (keiyoushi)",,word usually written using kana alone,,,,,,,,,,214,so as not to ...,38,いけない,道に迷うといけないから、地図をもって行きなさい。,Take a map with you in case you get lost.
+1000740,,,,78,いごっそう,f,,,,83,noun (common) (futsuumeishi),,,Tosa-ben,,,,,,,,,221,obstinate person,,,,
+1000740,,,,78,いごっそう,f,,,,83,noun (common) (futsuumeishi),,,Tosa-ben,,,,,,,,,220,strong-minded person,,,,
+1000740,,,,78,いごっそう,f,,,,83,noun (common) (futsuumeishi),,,Tosa-ben,,,,,,,,,219,stubborn person,,,,
+1000750,,,,79,いざ,f,,,,84,"adverb (fukushi), interjection (kandoushi)",,,,,,,,,,,,224,well,39,いざ,あなたから離れようと思っているのにいざそうしようとしてもうまくいかない。,"I want to split up, but I know I couldn't even if I tried."
+1000750,,,,79,いざ,f,,,,84,"adverb (fukushi), interjection (kandoushi)",,,,,,,,,,,,223,come (now),39,いざ,あなたから離れようと思っているのにいざそうしようとしてもうまくいかない。,"I want to split up, but I know I couldn't even if I tried."
+1000750,,,,79,いざ,f,,,,84,"adverb (fukushi), interjection (kandoushi)",,,,,,,,,,,,222,now,39,いざ,あなたから離れようと思っているのにいざそうしようとしてもうまくいかない。,"I want to split up, but I know I couldn't even if I tried."
+1000760,,,,80,いざこざ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,229,tangle,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,80,いざこざ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,228,complication,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,80,いざこざ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,227,difficulties,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,80,いざこざ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,226,quarrel,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,80,いざこざ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,225,trouble,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,81,イザコザ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,229,tangle,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,81,イザコザ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,228,complication,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,81,イザコザ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,227,difficulties,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,81,イザコザ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,226,quarrel,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000760,,,,81,イザコザ,f,,,,85,noun (common) (futsuumeishi),,,,,,,,,,,,225,trouble,40,いざこざ,たとえばあなたの家庭のいざこざを考えてごらんなさい。,"Take, for instance, your family problems."
+1000770,,,,83,いじいじ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,232,diffidently,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000770,,,,83,いじいじ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,231,timidly,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000770,,,,83,いじいじ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,230,hesitantly,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000770,,,,82,イジイジ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,232,diffidently,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000770,,,,82,イジイジ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,231,timidly,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000770,,,,82,イジイジ,f,,,,86,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,230,hesitantly,41,イジイジ,もうホントにこいつは優柔不断で、イジイジした奴だ。,"This guy is really wishy-washy. He couldn't make a decision to save his life.
+                "
+1000780,,,,84,いじける,f,,,,87,"Ichidan verb, intransitive verb",,,,,,,,,,,,236,to lose one's nerve,,,,
+1000780,,,,84,いじける,f,,,,87,"Ichidan verb, intransitive verb",,,,,,,,,,,,235,to shrink,,,,
+1000780,,,,84,いじける,f,,,,87,"Ichidan verb, intransitive verb",,,,,,,,,,,,234,to cower,,,,
+1000780,,,,84,いじける,f,,,,87,"Ichidan verb, intransitive verb",,,,,,,,,,,,233,to grow timid,,,,
+1000780,,,,84,いじける,f,,,,88,"Ichidan verb, intransitive verb",,,,,,,,,,,,240,to become withdrawn,,,,
+1000780,,,,84,いじける,f,,,,88,"Ichidan verb, intransitive verb",,,,,,,,,,,,239,to become warped,,,,
+1000780,,,,84,いじける,f,,,,88,"Ichidan verb, intransitive verb",,,,,,,,,,,,238,to become contrary,,,,
+1000780,,,,84,いじける,f,,,,88,"Ichidan verb, intransitive verb",,,,,,,,,,,,237,to become perverse,,,,
+1000780,,,,84,いじける,f,,,,89,"Ichidan verb, intransitive verb",,,,,,,,,,,,242,to be constrained,,,,
+1000780,,,,84,いじける,f,,,,89,"Ichidan verb, intransitive verb",,,,,,,,,,,,241,to be cramped,,,,
+1000790,,,,86,いぢましい,f,,,,90,adjective (keiyoushi),,,,,,,,,,,,244,paltry,,,,
+1000790,,,,86,いぢましい,f,,,,90,adjective (keiyoushi),,,,,,,,,,,,243,piddling,,,,
+1000790,,,,85,いじましい,f,,,,90,adjective (keiyoushi),,,,,,,,,,,,244,paltry,,,,
+1000790,,,,85,いじましい,f,,,,90,adjective (keiyoushi),,,,,,,,,,,,243,piddling,,,,
+1000800,,,,87,いじらしい,f,,,,91,adjective (keiyoushi),,,,,,,,,,,,247,charming,,,,
+1000800,,,,87,いじらしい,f,,,,91,adjective (keiyoushi),,,,,,,,,,,,246,sweet,,,,
+1000800,,,,87,いじらしい,f,,,,91,adjective (keiyoushi),,,,,,,,,,,,245,lovable,,,,
+1000800,,,,87,いじらしい,f,,,,92,adjective (keiyoushi),,,,,,,,,,,,250,touching,,,,
+1000800,,,,87,いじらしい,f,,,,92,adjective (keiyoushi),,,,,,,,,,,,249,pathetic,,,,
+1000800,,,,87,いじらしい,f,,,,92,adjective (keiyoushi),,,,,,,,,,,,248,pitiful,,,,
+1000810,61,弄りまわす,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,254,to twiddle,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,61,弄りまわす,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,253,to fiddle with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,61,弄りまわす,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,252,to fumble with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,61,弄りまわす,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,251,to tinker with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,60,弄り回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,254,to twiddle,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,60,弄り回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,253,to fiddle with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,60,弄り回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,252,to fumble with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,60,弄り回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,251,to tinker with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,59,いじり回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,254,to twiddle,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,59,いじり回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,253,to fiddle with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,59,いじり回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,252,to fumble with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000810,59,いじり回す,,88,いじりまわす,f,,,,93,"Godan verb with 'su' ending, transitive verb",,,,,,,,,,,,251,to tinker with,42,弄り回す,帽子を弄り回すのはやめなさい。,Please stop playing with your hat.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,261,eagerly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,260,excitedly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,259,lightheartedly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,258,happily,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,257,joyfully,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,256,joyously,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,89,いそいそ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,255,cheerfully,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,261,eagerly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,260,excitedly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,259,lightheartedly,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,258,happily,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,257,joyfully,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,256,joyously,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000820,,,,90,イソイソ,f,,,,94,"adverb taking the 'to' particle, adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,255,cheerfully,43,イソイソと,智子はイソイソと出掛けていった。,Tomoko bounced happily out the door.
+1000830,,,,91,イチャイチャ,f,,,,95,"adverb (fukushi), noun or participle which takes the aux. verb suru",,,,,,,,,,,,263,making out,44,イチャイチャ,街中でイチャイチャするカップル見たら腹立ちませんか？,Doesn't it irritate you to see couples making out around town?
+1000830,,,,91,イチャイチャ,f,,,,95,"adverb (fukushi), noun or participle which takes the aux. verb suru",,,,,,,,,,,,262,flirting,44,イチャイチャ,街中でイチャイチャするカップル見たら腹立ちませんか？,Doesn't it irritate you to see couples making out around town?
+1000830,,,,92,いちゃいちゃ,f,,,,95,"adverb (fukushi), noun or participle which takes the aux. verb suru",,,,,,,,,,,,263,making out,44,イチャイチャ,街中でイチャイチャするカップル見たら腹立ちませんか？,Doesn't it irritate you to see couples making out around town?
+1000830,,,,92,いちゃいちゃ,f,,,,95,"adverb (fukushi), noun or participle which takes the aux. verb suru",,,,,,,,,,,,262,flirting,44,イチャイチャ,街中でイチャイチャするカップル見たら腹立ちませんか？,Doesn't it irritate you to see couples making out around town?
+1000840,,,,93,いちゃつく,f,,,,96,"Godan verb with 'ku' ending, intransitive verb",,,,,,,,,,,,265,to dally,45,いちゃつく,彼は出会うどの女性ともいちゃつく。,He flirts with every woman he meets.
+1000840,,,,93,いちゃつく,f,,,,96,"Godan verb with 'ku' ending, intransitive verb",,,,,,,,,,,,264,to flirt with,45,いちゃつく,彼は出会うどの女性ともいちゃつく。,He flirts with every woman he meets.
+1000860,62,何時もより,,94,いつもより,f,,,,97,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,266,more than usual,46,いつもより,わたしはいつもより遅く床に就いた。,I went to bed later than usual.
+1000870,63,いとも簡単に,,95,いともかんたんに,f,,,,98,adverb (fukushi),,,,,,,,,,,,267,very easily,47,いとも簡単に,彼はこれまでいとも簡単にたくさんの挑戦者をリングに沈めてきた。,He's mowed down a parade of challengers before.
+1000880,64,鯔背,,96,いなせ,f,,,,99,adjectival nouns or quasi-adjectives (keiyodoshi),,word usually written using kana alone,,,,,,,,,,270,smart,48,鯔背な,そう言えば、鯔背な男だった記憶が有るがどうしてるんだろな？,"Now that you mention it, I remember he was a dashing man. I wonder how he's
+                    doing?
+                "
+1000880,64,鯔背,,96,いなせ,f,,,,99,adjectival nouns or quasi-adjectives (keiyodoshi),,word usually written using kana alone,,,,,,,,,,269,dashing,48,鯔背な,そう言えば、鯔背な男だった記憶が有るがどうしてるんだろな？,"Now that you mention it, I remember he was a dashing man. I wonder how he's
+                    doing?
+                "
+1000880,64,鯔背,,96,いなせ,f,,,,99,adjectival nouns or quasi-adjectives (keiyodoshi),,word usually written using kana alone,,,,,,,,,,268,gallant,48,鯔背な,そう言えば、鯔背な男だった記憶が有るがどうしてるんだろな？,"Now that you mention it, I remember he was a dashing man. I wonder how he's
+                    doing?
+                "
+1000885,65,嘶く,,97,いななく,f,,,,100,"Godan verb with 'ku' ending, intransitive verb",,,,,,,,,,,,271,to neigh,,,,
+1000890,66,嘶き,,98,いななき,f,,,,101,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,274,bray,,,,
+1000890,66,嘶き,,98,いななき,f,,,,101,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,273,whinny,,,,
+1000890,66,嘶き,,98,いななき,f,,,,101,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,272,neigh,,,,
+1000900,,,,99,いびる,f,,,,102,"Godan verb with 'ru' ending, transitive verb",,,,,,,,,,,,276,to tease,49,いびらないで,私をいびらないで。,"Don't pick on me, please."
+1000900,,,,99,いびる,f,,,,102,"Godan verb with 'ru' ending, transitive verb",,,,,,,,,,,,275,to pick on,49,いびらないで,私をいびらないで。,"Don't pick on me, please."
+1000910,67,嫌に,,100,いやに,f,,,,103,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,278,terribly,,,,
+1000910,67,嫌に,,100,いやに,f,,,,103,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,277,awfully,,,,
+1000910,68,厭に,,100,いやに,f,,,,103,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,278,terribly,,,,
+1000910,68,厭に,,100,いやに,f,,,,103,adverb (fukushi),,word usually written using kana alone,,,,,,,,,,277,awfully,,,,
+1000920,,,,102,いらしゃい,f,word containing irregular kana usage,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,281,stay,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,102,いらしゃい,f,word containing irregular kana usage,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,280,go,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,102,いらしゃい,f,word containing irregular kana usage,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,279,come,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,101,いらっしゃい,f,,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,281,stay,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,101,いらっしゃい,f,,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,280,go,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,101,いらっしゃい,f,,,,104,interjection (kandoushi),,honorific or respectful (sonkeigo) language,,,,,,28,いらっしゃる・1,,,279,come,50,いらっしゃい,いるだけ持っていらっしゃい。,Please take with you as much as you need.
+1000920,,,,102,いらしゃい,f,word containing irregular kana usage,,,105,interjection (kandoushi),,,,,,,,29,いらっしゃいませ,,,282,welcome,51,いらっしゃ〜い,「いらっしゃ〜い」「よぉ」「なんだ、啓太か・・・」,"""Welcome!"" ""Yo."" ""Oh, what, it's only Keita?"""
+1000920,,,,101,いらっしゃい,f,,,,105,interjection (kandoushi),,,,,,,,29,いらっしゃいませ,,,282,welcome,51,いらっしゃ〜い,「いらっしゃ〜い」「よぉ」「なんだ、啓太か・・・」,"""Welcome!"" ""Yo."" ""Oh, what, it's only Keita?"""
+1000930,,,,103,いらっしゃいませ,f,,,,106,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,283,welcome,52,いらっしゃいませ,いらっしゃいませ、何名様ですか。,Good evening. How many are in your party?
+1000930,,,,104,いらしゃいませ,f,word containing irregular kana usage,,,106,"expressions (phrases, clauses, etc.)",,,,,,,,,,,,283,welcome,52,いらっしゃいませ,いらっしゃいませ、何名様ですか。,Good evening. How many are in your party?
+1000940,,,,105,いらっしゃる,f,,,,107,"Godan verb - -aru special class, intransitive verb",,honorific or respectful (sonkeigo) language,,,,,,,,,,286,to be (somewhere),53,いらっしゃいます,お母さんはいらっしゃいますか。,Is your mother at home?
+1000940,,,,105,いらっしゃる,f,,,,107,"Godan verb - -aru special class, intransitive verb",,honorific or respectful (sonkeigo) language,,,,,,,,,,285,to go,53,いらっしゃいます,お母さんはいらっしゃいますか。,Is your mother at home?
+1000940,,,,105,いらっしゃる,f,,,,107,"Godan verb - -aru special class, intransitive verb",,honorific or respectful (sonkeigo) language,,,,,,,,,,284,to come,53,いらっしゃいます,お母さんはいらっしゃいますか。,Is your mother at home?
+1000940,,,,105,いらっしゃる,f,,,,108,"Godan verb - -aru special class, auxiliary verb",,honorific or respectful (sonkeigo) language,,,,,,,,,,287,to be (doing),54,いらっしゃいます,あなたはご両親のどちらに似ていらっしゃいますか。,Which of your parents do you take after?
+1000960,,,,106,うじうじ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,291,wishy-washily,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,106,うじうじ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,290,irresolutely,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,106,うじうじ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,289,hesitantly,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,106,うじうじ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,288,indecisively,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,107,ウジウジ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,291,wishy-washily,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,107,ウジウジ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,290,irresolutely,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,107,ウジウジ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,289,hesitantly,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000960,,,,107,ウジウジ,f,,,,109,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,288,indecisively,55,ウジウジ,おまえもいい加減ウジウジしてないで、決断しなさい！,Quit sitting on the fence and make a decision!
+1000970,,,,108,うじゃうじゃ,f,,,,110,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,293,in clusters,56,ウジャウジャ,アイドルのコンサート会場に、追っかけのファンがウジャウジャ集まっていた。,"At the pop star's concert the fans were swarming around the foot of the stage.
+                "
+1000970,,,,108,うじゃうじゃ,f,,,,110,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,292,in swarms,56,ウジャウジャ,アイドルのコンサート会場に、追っかけのファンがウジャウジャ集まっていた。,"At the pop star's concert the fans were swarming around the foot of the stage.
+                "
+1000970,,,,109,ウジャウジャ,f,,,,110,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,293,in clusters,56,ウジャウジャ,アイドルのコンサート会場に、追っかけのファンがウジャウジャ集まっていた。,"At the pop star's concert the fans were swarming around the foot of the stage.
+                "
+1000970,,,,109,ウジャウジャ,f,,,,110,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,292,in swarms,56,ウジャウジャ,アイドルのコンサート会場に、追っかけのファンがウジャウジャ集まっていた。,"At the pop star's concert the fans were swarming around the foot of the stage.
+                "
+1000970,,,,109,ウジャウジャ,f,,,,111,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,295,slowly,,,,
+1000970,,,,109,ウジャウジャ,f,,,,111,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,294,tediously,,,,
+1000970,,,,108,うじゃうじゃ,f,,,,111,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,295,slowly,,,,
+1000970,,,,108,うじゃうじゃ,f,,,,111,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,294,tediously,,,,
+1000980,,,,110,うずうず,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,299,eager,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,110,うずうず,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,298,sorely tempted,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,110,うずうず,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,297,impatient,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,110,うずうず,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,296,itching to do something,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,111,ウズウズ,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,299,eager,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,111,ウズウズ,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,298,sorely tempted,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,111,ウズウズ,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,297,impatient,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000980,,,,111,ウズウズ,f,,,,112,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,296,itching to do something,57,うずうず,彼はそれを試してみたくてうずうずしていた。,He was panting to have a go at it.
+1000990,,,,112,うぞうぞ,f,,,,113,adverb (fukushi),,onomatopoeic or mimetic word,,,,,,,,,,301,stimulated,,,,
+1000990,,,,112,うぞうぞ,f,,,,113,adverb (fukushi),,onomatopoeic or mimetic word,,,,,,,,,,300,irrepressibly aroused (esp. sexually),,,,
+1001000,,,,114,ウダウダ,f,,,,114,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,303,talking nonsense,,,,
+1001000,,,,114,ウダウダ,f,,,,114,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,302,going on and on (about inconsequential things),,,,
+1001000,,,,113,うだうだ,f,,,,114,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,303,talking nonsense,,,,
+1001000,,,,113,うだうだ,f,,,,114,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,302,going on and on (about inconsequential things),,,,
+1001000,,,,113,うだうだ,f,,,,115,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,305,dawdling,,,,
+1001000,,,,113,うだうだ,f,,,,115,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,304,idling away the time,,,,
+1001000,,,,114,ウダウダ,f,,,,115,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,305,dawdling,,,,
+1001000,,,,114,ウダウダ,f,,,,115,"adverb (fukushi), noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,304,idling away the time,,,,
+1001010,,,,116,ウッカリ,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,308,inadvertently,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001010,,,,116,ウッカリ,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,307,thoughtlessly,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001010,,,,116,ウッカリ,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,306,carelessly,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001010,,,,115,うっかり,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,308,inadvertently,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001010,,,,115,うっかり,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,307,thoughtlessly,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001010,,,,115,うっかり,f,,,,116,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,306,carelessly,58,うっかり,うっかりそれを忘れるところだったわ。,I almost forgot all about that.
+1001030,,,,121,ウトっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,311,nodding off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,121,ウトっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,310,dozing off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,121,ウトっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,309,falling into a doze,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,117,うとうと,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,311,nodding off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,117,うとうと,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,310,dozing off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,117,うとうと,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,309,falling into a doze,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,119,うとっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,311,nodding off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,119,うとっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,310,dozing off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,119,うとっと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,309,falling into a doze,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,120,ウトッと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,311,nodding off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,120,ウトッと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,310,dozing off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,120,ウトッと,f,search-only kana form,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,309,falling into a doze,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,118,ウトウト,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,311,nodding off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,118,ウトウト,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,310,dozing off,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001030,,,,118,ウトウト,f,,,,117,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,309,falling into a doze,59,うとうと,彼は一日中うとうとしていた。,He slumbered out the whole day.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,318,tortuously,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,317,sinuously,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,316,in twists and turns,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,315,zig-zag,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,314,zigzagging,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,313,meandering,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,122,うねうね,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,312,winding,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,318,tortuously,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,317,sinuously,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,316,in twists and turns,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,315,zig-zag,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,314,zigzagging,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,313,meandering,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001040,,,,123,ウネウネ,f,,,,118,"adverb (fukushi), adverb taking the 'to' particle, noun or participle which takes the aux. verb suru",,onomatopoeic or mimetic word,,,,,,,,,,312,winding,60,ウネウネ,さっきからやたらウネウネした道を進んでいる。,I'm getting tired of driving on this winding road.
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,119,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,321,meandering,,,,
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,119,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,320,winding,,,,
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,119,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,319,undulation,,,,
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,120,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,326,roller,61,うねり,濃霧に加えてうねりも高かった。,"In addition to a thick fog, there was a heavy swell."
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,120,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,325,billow,61,うねり,濃霧に加えてうねりも高かった。,"In addition to a thick fog, there was a heavy swell."
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,120,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,324,surge,61,うねり,濃霧に加えてうねりも高かった。,"In addition to a thick fog, there was a heavy swell."
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,120,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,323,ground swell,61,うねり,濃霧に加えてうねりも高かった。,"In addition to a thick fog, there was a heavy swell."
+1001050,69,畝り,rarely-used kanji form,124,うねり,f,,,,120,noun (common) (futsuumeishi),,word usually written using kana alone,,,,,,,,,,322,swell (of waves),61,うねり,濃霧に加えてうねりも高かった。,"In addition to a thick fog, there was a heavy swell."
+1001060,,,,126,ウロウロ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,329,without purpose,,,,
+1001060,,,,126,ウロウロ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,328,aimlessly,,,,
+1001060,,,,126,ウロウロ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,327,restlessly,,,,
+1001060,,,,125,うろうろ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,329,without purpose,,,,
+1001060,,,,125,うろうろ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,328,aimlessly,,,,
+1001060,,,,125,うろうろ,f,,,,121,"adverb (fukushi), adverb taking the 'to' particle",,onomatopoeic or mimetic word,,,,,,,,,,327,restlessly,,,,
+1001060,,,,125,うろうろ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,334,to be restless,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,125,うろうろ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,333,to wander aimlessly,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,125,うろうろ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,332,to hang about doing nothing,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,125,うろうろ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,331,to drift,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,125,うろうろ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,330,to loiter,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,334,to be restless,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,333,to wander aimlessly,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,332,to hang about doing nothing,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,331,to drift,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,122,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,30,彷徨く,,,330,to loiter,62,うろうろした,今日一日当ても無くうろうろした。,I wandered about aimlessly all day.
+1001060,,,,126,ウロウロ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,337,to be in a fidget,,,,
+1001060,,,,126,ウロウロ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,336,to fuss,,,,
+1001060,,,,126,ウロウロ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,335,to be restless,,,,
+1001060,,,,125,うろうろ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,337,to be in a fidget,,,,
+1001060,,,,125,うろうろ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,336,to fuss,,,,
+1001060,,,,125,うろうろ,f,,,,123,noun or participle which takes the aux. verb suru,,onomatopoeic or mimetic word,,,,,,,,,,335,to be restless,,,,
