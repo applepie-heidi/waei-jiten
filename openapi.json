@@ -1,0 +1,150 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Waei Jiten Data",
+    "description": "Japanese-English dictionary with example sentences",
+    "author": "Heidi Sokolovski",
+    "publicationDate": "2023-10-30",
+    "source": "https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project",
+    "language": "English, Japanese",
+    "characterEncoding": "UTF-8",
+    "license": "Creative Commons Attribution-ShareAlike Licence (V3.0)",
+    "distributions": "CSV, JSON",
+    "currentVersion": "1.3",
+    "version": "1.3"
+  },
+  "paths": {
+    "/api/": {
+      "get": {
+        "description": "Returns a collection",
+        "responses": {
+          "200": {
+            "description": "All data fetched"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      },
+      "post": {
+        "description": "Creates a new collection resource",
+        "responses": {
+          "200": {
+            "description": "Word with the provided information already exists"
+          },
+          "201": {
+            "description": "The request succeeded, and a new resource was created as a result"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/api/kanji": {
+      "get": {
+        "description": "Returns a json of kanji in the collection",
+        "responses": {
+          "200": {
+            "description": "All kanji fetched"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/api/reading": {
+      "get": {
+        "description": "Returns a json of readings in the collection",
+        "responses": {
+          "200": {
+            "description": "All readings fetched"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/api/gloss": {
+      "get": {
+        "description": "Returns a json of glosses in the collection",
+        "responses": {
+          "200": {
+            "description": "All glosses fetched"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/api/{id}": {
+      "get": {
+        "description": "Returns a resource with the provided id",
+        "responses": {
+          "200": {
+            "description": "Data with the provided id fetched"
+          },
+          "400": {
+            "description": "The server could not understand the request due to invalid syntax."
+          },
+          "404": {
+            "description": "Hotel with the provided id doesn't exist"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      },
+      "put": {
+        "description": "Returns a changed resource with the provided id",
+        "responses": {
+          "200": {
+            "description": "The request succeeded"
+          },
+          "400": {
+            "description": "The server could not understand the request due to invalid syntax."
+          },
+          "404": {
+            "description": "Entry with the provided id doesn't exist"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      },
+      "delete": {
+        "description": "Deletes a resource with the provided id",
+        "responses": {
+          "200": {
+            "description": "Hotel with the provided id successfully deleted"
+          },
+          "400": {
+            "description": "The server could not understand the request due to invalid syntax."
+          },
+          "404": {
+            "description": "Hotel with the provided id doesn't exist"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
+    "/api/openapi": {
+      "get": {
+        "description": "Returns the OpenAPI specification",
+        "responses": {
+          "200": {
+            "description": "Successfully fetched the OpenAPI specification"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    }
+  }
+}
