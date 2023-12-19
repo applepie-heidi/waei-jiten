@@ -91,7 +91,7 @@
             "description": "The server could not understand the request due to invalid syntax."
           },
           "404": {
-            "description": "Hotel with the provided id doesn't exist"
+            "description": "Entry with the provided id doesn't exist"
           },
           "default": {
             "description": "Unexpected error"
@@ -119,13 +119,13 @@
         "description": "Deletes a resource with the provided id",
         "responses": {
           "200": {
-            "description": "Hotel with the provided id successfully deleted"
+            "description": "Entry with the provided id successfully deleted"
           },
           "400": {
             "description": "The server could not understand the request due to invalid syntax."
           },
           "404": {
-            "description": "Hotel with the provided id doesn't exist"
+            "description": "Entry with the provided id doesn't exist"
           },
           "default": {
             "description": "Unexpected error"
