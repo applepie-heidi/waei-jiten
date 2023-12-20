@@ -1,6 +1,8 @@
 const express = require('express');
 const router = express.Router();
 const pool = require('../db/pgadmin');
+const fs = require('fs');
+var format = require('pg-format');
 
 const select_id_sql = `SELECT kanji, kanji_info, reading, reading_info, pos, field, misc, dialect, gloss, japanese_sentence, english_sentence
     FROM entry AS e
@@ -23,7 +25,7 @@ router.get('/openapi', async (req, res) => {
         let response = format(`{
             "status": "200 OK",
             "message": "Successfully fetched the OpenAPI specification",
-            "response": {
+            "response": [{
                     "kanji": "kanji",
                     "kanji_info": "kanji_info",
                     "reading": "reading",
@@ -35,7 +37,7 @@ router.get('/openapi', async (req, res) => {
                     "gloss": "gloss",
                     "japanese_sentence": "japanese_sentence",
                     "english_sentence": "english_sentence"
-                }
+                }, %s]
         }`, data);
         res.set({
             'method': 'GET',
@@ -48,7 +50,7 @@ router.get('/openapi', async (req, res) => {
 });
 
 router.get('/', async (req, res) => {
-    fs.readFile("./public/data/waei-jiten.json", "utf-8", function (err, data) {
+    fs.readFile("./public/data/data.json", "utf-8", function (err, data) {
         if (err) throw err;
 
         data = JSON.parse(data);
@@ -56,7 +58,7 @@ router.get('/', async (req, res) => {
         let response = format(`{
             "status": "200 OK",
             "message": "All data fetched",
-            "response": {
+            "response": [{
                     "kanji": "kanji",
                     "kanji_info": "kanji_info",
                     "reading": "reading",
@@ -68,7 +70,7 @@ router.get('/', async (req, res) => {
                     "gloss": "gloss",
                     "japanese_sentence": "japanese_sentence",
                     "english_sentence": "english_sentence"
-                }
+                }, %s]
         }`, data);
         res.set({
             'method': 'GET',
@@ -86,9 +88,9 @@ router.get('/kanji', async (req, res) => {
     let response = format(`{
         "status": "200 OK",
         "message": "All kanji fetched",
-        "response": {
+        "response": [{
                 "kanji": "kanji",
-            }
+            }, %s]
     }`, data);
     res.set({
         'method': 'GET',
@@ -106,9 +108,9 @@ router.get('/reading', async (req, res) => {
     let response = format(`{
         "status": "200 OK",
         "message": "All readings fetched",
-        "response": {
+        "response": [{
                 "reading": "reading",
-            }
+            }, %s]
     }`, data);
 
     res.set({
@@ -121,14 +123,14 @@ router.get('/reading', async (req, res) => {
 });
 
 router.get('/gloss', async (req, res) => {
-    var data = (await (await pool.query(`SELECT DISTINCT reading FROM reading_element`))).rows;
+    var data = (await (await pool.query(`SELECT DISTINCT gloss FROM sense_gloss`))).rows;
 
     let response = format(`{
         "status": "200 OK",
         "message": "All glosses fetched",
-        "response": {
+        "response": [{
                 "gloss": "gloss",
-            }
+            }, %s]
     }`, data);
 
     res.set({
@@ -157,7 +159,7 @@ router.get('/:id', async (req, res) => {
         let response = format(`{
             "status": "200 OK",
             "message": "Data with id = %s fetched",
-            "response":{
+            "response":[{
                     "kanji": "kanji",
                     "kanji_info": "kanji_info",
                     "reading": "reading",
@@ -169,7 +171,7 @@ router.get('/:id', async (req, res) => {
                     "gloss": "gloss",
                     "japanese_sentence": "japanese_sentence",
                     "english_sentence": "english_sentence"
-                }
+                }, %s]
         }`, id, data);
         res.set({
             'method': 'GET',
@@ -261,7 +263,7 @@ router.post('/', async (req, res) => {
         var response = format(`{
             "status": "200 OK",
             "message": "Emtry with the provided information already exists",
-            "response": {
+            "response": [{
                     "kanji": "kanji",
                     "kanji_info": "kanji_info",
                     "reading": "reading",
@@ -273,7 +275,7 @@ router.post('/', async (req, res) => {
                     "gloss": "gloss",
                     "japanese_sentence": "japanese_sentence",
                     "english_sentence": "english_sentence"
-                }
+                }, %s]
         }`, data);
         res.set({
             'method': 'POST',
@@ -285,7 +287,7 @@ router.post('/', async (req, res) => {
         var response = format(`{
             "status": "201 Created",
             "message": "The request succeeded, and a new resource was created as a result",
-            "response":  {
+            "response":  [{
                     "kanji": "kanji",
                     "kanji_info": "kanji_info",
                     "reading": "reading",
@@ -297,7 +299,7 @@ router.post('/', async (req, res) => {
                     "gloss": "gloss",
                     "japanese_sentence": "japanese_sentence",
                     "english_sentence": "english_sentence"
-                }
+                }, %s]
         }`, data);
         res.set({
             'method': 'POST',
@@ -370,7 +372,7 @@ router.put('/:id', async (req, res) => {
     var response = format(`{
         "status": "200 OK",
         "message": "The request succeeded",
-        "response": {
+        "response": [{
                 "kanji": "kanji",
                 "kanji_info": "kanji_info",
                 "reading": "reading",
@@ -382,7 +384,7 @@ router.put('/:id', async (req, res) => {
                 "gloss": "gloss",
                 "japanese_sentence": "japanese_sentence",
                 "english_sentence": "english_sentence"
-            }
+            }, %s]
     }`, body);
     response = JSON.parse(response);
     res.status(200).send(response);
