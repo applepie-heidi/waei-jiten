@@ -17,10 +17,32 @@
 <div class="description"><span>Japanese-English dictionary with example sentences</span></div>
 <hr>
 <br>
+<% if (flash) { %>
+    <div class="flash">
+        <% if (flash.status === 'success') { %>
+            <div class="flash-success"><%= flash.message %></div>
+        <% } %>
+        <% if (flash.status === 'error') { %>
+            <div class="flash-error"><%= flash.message %></div>
+        <% } %>
+    </div>
+<% } %>
 <div>
     <nav>
-        <a href="/datatable" class="button button1"><span class="sp">Datatable View -></span></a>
+        <a href="/datatable" class="button button1"><span class="sp">Datatable View</span></a>
     </nav>
+    <% if (username) { %>
+        <nav>
+            <a href="/profile" class="button button1"><span class="sp">User Profile</span></a>
+        </nav>
+        <nav>
+            <a href="/refresh" class="button button1"><span class="sp">Refresh Copies</span></a>
+        </nav>
+    <% } else { %>
+        <nav>
+            <a href="/sign-up" class="button button1"><span class="sp">Sign Up / Login -></span></a>
+        </nav>
+    <% } %>
 </div>
 <div class="dataset">
     <h3>Author:</h3>
@@ -54,8 +76,8 @@
 </div>
 <div class="formats">
     <h3>Distributions:</h3>
-    <a href="/data/waei_jiten.csv" download=""><span>CSV</span></a>
-    <a href="/data/waei_jiten.json" download=""><span>JSON</span></a>
+    <a href="/data/waei_jiten_data.csv" download=""><span>CSV</span></a>
+    <a href="/data/waei_jiten_data.json" download=""><span>JSON</span></a>
 </div>
 <div class="dataset">
     <h3>Current Version:</h3>

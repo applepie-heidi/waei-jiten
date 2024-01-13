@@ -67,3 +67,16 @@ tfoot input {
 thead input {
   width: 100%;
 }
+
+.flash .flash-success {
+  background-color: #0f3154;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+.flash .flash-error {
+  background-color: #540f0f;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
