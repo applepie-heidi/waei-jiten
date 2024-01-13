@@ -14,15 +14,31 @@
 </head>
 <body>
 <h1>User Profile</h1>
-<div class="description"><span>Welcome </span></div>
+<div class="description"><span>Welcome user <%= user?.nickname %>!</span></div>
 <hr>
 <br>
 <div>
     <nav>
-        <a href="/" class="button button1"><span class="sp">Index -></span></a>
+        <a href="/" class="button button1"><span class="sp">Index</span></a>
+    </nav>
+    <nav>
+        <a href="/logout" class="button button1"><span class="sp">Logout</span></a>
     </nav>
 </div>
-<div><span>Welcome user</span></div>
+<div>
+    <% const keys = Object.keys(user) %>
+    <% for (let i = 0; i < keys.length; i++) { %>
+        <div>
+            <% let key = keys[i] %>
+            <h3><%= key %></h3>
+            <% if (key === 'picture') { %>
+                <img src=<%= user[key] %> alt=<%= key %>>
+            <% } else { %>
+                <span><%= user[key] %></span>
+            <% } %>
+        </div>
+    <% } %>
+</div>
 
 </body>
 </html>
