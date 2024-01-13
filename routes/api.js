@@ -38,20 +38,9 @@ router.get('/openapi', async (req, res) => {
             "status": "200 OK",
             "message": "Successfully fetched the OpenAPI specification",
             "response": [{
-                "entry_id": "entry_id",
-                "kanji": "kanji",
-                "kanji_info": "kanji_info",
-                "reading": "reading",
-                "reading_nokanji": "reading_nokanji",
-                "reading_info": "reading_info",
-                "pos": "pos",
-                "field": "field",
-                "misc": "misc",
-                "dialect": "dialect",
-                "gloss": "gloss",
-                "sense_text": "sense_text",
-                "japanese_sentence": "japanese_sentence",
-                "english_sentence": "english_sentence"
+                "@vocab": "https://schema.org/",
+                "kanji": "https://schema.org/name",
+                "kanji_info": "https://schema.org/description"
             }, data]
         }
         res.set({
@@ -71,20 +60,9 @@ router.get('/', async (req, res) => {
         "status": "200 OK",
         "message": "All data fetched",
         "response": [{
-            "entry_id": "entry_id",
-            "kanji": "kanji",
-            "kanji_info": "kanji_info",
-            "reading": "reading",
-            "reading_nokanji": "reading_nokanji",
-            "reading_info": "reading_info",
-            "pos": "pos",
-            "field": "field",
-            "misc": "misc",
-            "dialect": "dialect",
-            "gloss": "gloss",
-            "sense_text": "sense_text",
-            "japanese_sentence": "japanese_sentence",
-            "english_sentence": "english_sentence"
+            "@vocab": "https://schema.org/",
+            "kanji": "https://schema.org/name",
+            "kanji_info": "https://schema.org/description"
         }, data]
     };
     res.set({
@@ -169,20 +147,9 @@ router.get('/:id', async (req, res) => {
         "status": "200 OK",
         "message": "Data with the provided id fetched",
         "response": [{
-            "entry_id": "entry_id",
-            "kanji": "kanji",
-            "kanji_info": "kanji_info",
-            "reading": "reading",
-            "reading_nokanji": "reading_nokanji",
-            "reading_info": "reading_info",
-            "pos": "pos",
-            "field": "field",
-            "misc": "misc",
-            "dialect": "dialect",
-            "gloss": "gloss",
-            "sense_text": "sense_text",
-            "japanese_sentence": "japanese_sentence",
-            "english_sentence": "english_sentence"
+            "@vocab": "https://schema.org/",
+            "kanji": "https://schema.org/name",
+            "kanji_info": "https://schema.org/description"
         }, data]
     };
     res.set({
@@ -281,21 +248,10 @@ router.post('/', async (req, res) => {
             "status": "200 OK",
             "message": "Entry with the provided information already exists",
             "response": [{
-                    "kanji": "kanji",
-                    "kanji_info": "kanji_info",
-                    "reading": "reading",
-                    "reading_nokanji": "reading_nokanji",
-                    "reading_info": "reading_info",
-                    "pos": "pos",
-                    "field": "field",
-                    "misc": "misc",
-                    "dialect": "dialect",
-                    "gloss": "gloss",
-                    "sense_text": "sense_text",
-                    "japanese_sentence": "japanese_sentence",
-                    "english_sentence": "english_sentence",
-                    "entry_id": "entry_id"
-                }, data]
+                "@vocab": "https://schema.org/",
+                "kanji": "https://schema.org/name",
+                "kanji_info": "https://schema.org/description"
+            }, data]
         };
         res.set({
             'method': 'POST',
@@ -308,22 +264,11 @@ router.post('/', async (req, res) => {
         response = {
             "status": "201 Created",
             "message": "The request succeeded, and a new resource was created as a result",
-            "response":  [{
-                    "kanji": "kanji",
-                    "kanji_info": "kanji_info",
-                    "reading": "reading",
-                    "reading_nokanji": "reading_nokanji",
-                    "reading_info": "reading_info",
-                    "pos": "pos",
-                    "field": "field",
-                    "misc": "misc",
-                    "dialect": "dialect",
-                    "gloss": "gloss",
-                    "sense_text": "sense_text",
-                    "japanese_sentence": "japanese_sentence",
-                    "english_sentence": "english_sentence",
-                    "entry_id": "entry_id"
-                }, data]
+            "response": [{
+                "@vocab": "https://schema.org/",
+                "kanji": "https://schema.org/name",
+                "kanji_info": "https://schema.org/description"
+            }, data]
         };
         res.set({
             'method': 'POST',
@@ -360,21 +305,10 @@ router.put('/:id', async (req, res) => {
         "status": "200 OK",
         "message": "The request succeeded",
         "response": [{
-                "entry_id": "entry_id",
-                "kanji": "kanji",
-                "kanji_info": "kanji_info",
-                "reading": "reading",
-                "reading_nokanji": "reading_nokanji",
-                "reading_info": "reading_info",
-                "pos": "pos",
-                "field": "field",
-                "misc": "misc",
-                "dialect": "dialect",
-                "gloss": "gloss",
-                "sense_text": "sense_text",
-                "japanese_sentence": "japanese_sentence",
-                "english_sentence": "english_sentence"
-            }, body]
+            "@vocab": "https://schema.org/",
+            "kanji": "https://schema.org/name",
+            "kanji_info": "https://schema.org/description"
+        }, body]
     };
     res.status(200).send(response);
 
