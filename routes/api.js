@@ -37,11 +37,7 @@ router.get('/openapi', async (req, res) => {
         let response = {
             "status": "200 OK",
             "message": "Successfully fetched the OpenAPI specification",
-            "response": [{
-                "@vocab": "https://schema.org/",
-                "kanji": "https://schema.org/name",
-                "kanji_info": "https://schema.org/description"
-            }, data]
+            "response": [data]
         }
         res.set({
             'method': 'GET',
@@ -54,16 +50,30 @@ router.get('/openapi', async (req, res) => {
 });
 
 router.get('/', async (req, res) => {
-    const data = (await (await pool.query(select_sql))).rows;
+    let data = (await (await pool.query(select_sql))).rows;
+
+    for (let i = 0; i < data.length; i++) {
+        data[i] = {
+            "@type": "ex:kanji",
+            ...data[i]
+        }
+    }
 
     let response = {
         "status": "200 OK",
         "message": "All data fetched",
-        "response": [{
-            "@vocab": "https://schema.org/",
-            "kanji": "https://schema.org/name",
-            "kanji_info": "https://schema.org/description"
-        }, data]
+        "response": {
+            "ex": "http://example.org/",
+            "data": {
+                "@type": "ex:kanji",
+                "@id": "ex:kanji",
+                "@container": "@set",
+                "kanji": "https://schema.org/name",
+            }
+        },
+        "@type": "response",
+        "@id": "ex:response",
+        "data": [data]
     };
     res.set({
         'method': 'GET',
@@ -92,6 +102,28 @@ router.get('/kanji', async (req, res) => {
     });
     res.status(200).send(response);
 
+});
+
+router.get('/me', async (req, res) => {
+    const user = await req.oidc.fetchUserInfo();
+    let userLd = {
+        "status": "200 OK",
+        "message": "User fetched",
+        "response": [{
+
+            "@context": {
+                "@vocab": "https://schema.org/",
+                "name": "https://schema.org/name",
+                "email": "https://schema.org/email",
+                "picture": "https://schema.org/image"
+            },
+            "@type": "Person",
+            "name": user.name,
+            "email": user.email,
+            "picture": user.picture
+        }]
+    }
+    res.status(200).send(userLd);
 });
 
 router.get('/reading', async (req, res) => {
@@ -138,29 +170,29 @@ router.get('/:id', async (req, res) => {
     const id = req.params.id;
 
     await idChecker(id, req.method, res)
+    try {
 
-    const sql = `${select_sql} WHERE e.entry_id=$1`;
-    const data = (await (await pool.query(sql, [id]))).rows;
+        const sql = `${select_sql} WHERE e.entry_id=$1`;
+        const data = (await (await pool.query(sql, [id]))).rows;
 
 
-    let response = {
-        "status": "200 OK",
-        "message": "Data with the provided id fetched",
-        "response": [{
-            "@vocab": "https://schema.org/",
-            "kanji": "https://schema.org/name",
-            "kanji_info": "https://schema.org/description"
-        }, data]
-    };
-    res.set({
-        'method': 'GET',
-        'status': '200 OK',
-        'message': 'All data fetched',
-        'Content-type': 'application/json',
-        'warning': "with content type charset encoding will be added by default"
-    });
+        let response = {
+            "status": "200 OK",
+            "message": "Data with the provided id fetched",
+            "response": [data]
+        };
+        res.set({
+            'method': 'GET',
+            'status': '200 OK',
+            'message': 'All data fetched',
+            'Content-type': 'application/json',
+            'warning': "with content type charset encoding will be added by default"
+        });
 
-    res.status(200).send(response);
+        res.status(200).send(response);
+    } catch (err) {
+    }
+
 });
 
 
@@ -247,11 +279,7 @@ router.post('/', async (req, res) => {
         response = {
             "status": "200 OK",
             "message": "Entry with the provided information already exists",
-            "response": [{
-                "@vocab": "https://schema.org/",
-                "kanji": "https://schema.org/name",
-                "kanji_info": "https://schema.org/description"
-            }, data]
+            "response": [data]
         };
         res.set({
             'method': 'POST',
@@ -264,11 +292,7 @@ router.post('/', async (req, res) => {
         response = {
             "status": "201 Created",
             "message": "The request succeeded, and a new resource was created as a result",
-            "response": [{
-                "@vocab": "https://schema.org/",
-                "kanji": "https://schema.org/name",
-                "kanji_info": "https://schema.org/description"
-            }, data]
+            "response": [data]
         };
         res.set({
             'method': 'POST',
@@ -304,11 +328,7 @@ router.put('/:id', async (req, res) => {
     let response = {
         "status": "200 OK",
         "message": "The request succeeded",
-        "response": [{
-            "@vocab": "https://schema.org/",
-            "kanji": "https://schema.org/name",
-            "kanji_info": "https://schema.org/description"
-        }, body]
+        "response": [body]
     };
     res.status(200).send(response);
 
@@ -320,25 +340,29 @@ router.delete('/:id', async (req, res) => {
 
     await idChecker(id, req.method, res);
 
-    const senseId = (await pool.query(`SELECT sense_id FROM sense where entry_id=$1`, [id])).rows[0].sense_id;
+    try {
 
-    if (!senseId) {
-        console.log("No sense id found");
+        const senseId = (await pool.query(`SELECT sense_id FROM sense where entry_id=$1`, [id])).rows[0].sense_id;
+
+        if (!senseId) {
+            console.log("No sense id found");
+        }
+        await pool.query(`DELETE FROM sense_example WHERE sense_id=$1;`, [senseId]);
+        await pool.query(`DELETE FROM sense_gloss WHERE sense_id=$1;`, [senseId]);
+        await pool.query(`DELETE FROM sense WHERE entry_id=$1;`, [id]);
+        await pool.query(`DELETE FROM kanji_element WHERE entry_id=$1;`, [id]);
+        await pool.query(`DELETE FROM reading_element WHERE entry_id=$1;`, [id]);
+        await pool.query(`DELETE FROM entry WHERE entry_id=$1;`, [id]);
+
+        const response = {
+            "status": "200 OK",
+            "message": "Entry with the provided id successfully deleted",
+            "response": null
+        };
+
+        res.status(200).send(response);
+    } catch (err) {
     }
-    await pool.query(`DELETE FROM sense_example WHERE sense_id=$1;`, [senseId]);
-    await pool.query(`DELETE FROM sense_gloss WHERE sense_id=$1;`, [senseId]);
-    await pool.query(`DELETE FROM sense WHERE entry_id=$1;`, [id]);
-    await pool.query(`DELETE FROM kanji_element WHERE entry_id=$1;`, [id]);
-    await pool.query(`DELETE FROM reading_element WHERE entry_id=$1;`, [id]);
-    await pool.query(`DELETE FROM entry WHERE entry_id=$1;`, [id]);
-
-    const response = {
-        "status": "200 OK",
-        "message": "Entry with the provided id successfully deleted",
-        "response": null
-    };
-
-    res.status(200).send(response);
 });
 
 module.exports = router;

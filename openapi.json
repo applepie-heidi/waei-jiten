@@ -40,6 +40,19 @@
         }
       }
     },
+    "/api/waeijiten/me": {
+      "get": {
+        "description": "Returns a user",
+        "responses": {
+          "200": {
+            "description": "User fetched"
+          },
+          "default": {
+            "description": "Unexpected error"
+          }
+        }
+      }
+    },
     "/api/waeijiten/kanji": {
       "get": {
         "description": "Returns a json of kanji in the collection",
