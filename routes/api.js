@@ -70,6 +70,7 @@ router.get('/', async (req, res) => {
                 "@id": "ex:kanji",
                 "@container": "@set",
                 "kanji": "https://schema.org/name",
+                "kanji_info": "https://schema.org/description"
             }
         },
         "@type": "response",
