@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const pool = require('../db/pgadmin');
 const fs = require('fs');
+const {requiresAuth} = require("express-openid-connect");
 
 const select_sql = `SELECT e.entry_id,
        kanji,
@@ -84,27 +85,7 @@ router.get('/', async (req, res) => {
     res.status(200).send(response);
 });
 
-router.get('/kanji', async (req, res) => {
-    const data = (await (await pool.query(`SELECT DISTINCT kanji FROM kanji_element`))).rows;
-
-    let response = {
-        "status": "200 OK",
-        "message": "All kanji fetched",
-        "response": [{
-            "kanji": "kanji",
-        }, data]
-    };
-    res.set({
-        'method': 'GET',
-        'status': '200 OK',
-        'message': 'All kanji fetched',
-        'Content-type': 'application/json'
-    });
-    res.status(200).send(response);
-
-});
-
-router.get('/me', async (req, res) => {
+router.get('/me', requiresAuth(), async (req, res) => {
     const user = await req.oidc.fetchUserInfo();
     let userLd = {
         "status": "200 OK",
@@ -124,6 +105,26 @@ router.get('/me', async (req, res) => {
         }]
     }
     res.status(200).send(userLd);
+});
+
+router.get('/kanji', async (req, res) => {
+    const data = (await (await pool.query(`SELECT DISTINCT kanji FROM kanji_element`))).rows;
+
+    let response = {
+        "status": "200 OK",
+        "message": "All kanji fetched",
+        "response": [{
+            "kanji": "kanji",
+        }, data]
+    };
+    res.set({
+        'method': 'GET',
+        'status': '200 OK',
+        'message': 'All kanji fetched',
+        'Content-type': 'application/json'
+    });
+    res.status(200).send(response);
+
 });
 
 router.get('/reading', async (req, res) => {
